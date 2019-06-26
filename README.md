@@ -1,6 +1,10 @@
 Go Akeneo PIM API
 -----------------
 
+[![Latest Stable Version](https://poser.pugx.org/lireincore/ymlparser/v/stable)](https://packagist.org/packages/lireincore/ymlparser)
+[![Total Downloads](https://poser.pugx.org/lireincore/ymlparser/downloads)](https://packagist.org/packages/lireincore/ymlparser)
+[![License](https://poser.pugx.org/lireincore/ymlparser/license)](https://packagist.org/packages/lireincore/ymlparser)
+
 A simple Go client to use the Akeneo PIM API.
 
 #### License
